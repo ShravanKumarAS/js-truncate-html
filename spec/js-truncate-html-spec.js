@@ -1,5 +1,6 @@
 var htmlContentWithExpectedData = {
 	stringData: [
+	
 		{
 			description: 'should do normal text truncation',
 			originalHtmlContent: 'It does not have any html tag.',
